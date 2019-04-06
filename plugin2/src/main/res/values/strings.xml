@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">plugin2</string>
+    <string name="hello_message">你好</string>
+</resources>
